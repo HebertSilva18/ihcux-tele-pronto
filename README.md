@@ -1,7 +1,7 @@
 # ihcux-tele-pronto
 
 ## Aluno
-Ingred Santana
+Herbert Silva
 
 ## Proposta
 Protótipo de baixa fidelidade do aplicativo TelePronto, criado para uma interface de saúde simples, clara e fácil de usar.
